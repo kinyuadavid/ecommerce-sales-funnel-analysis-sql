@@ -1,4 +1,5 @@
 **E-commerce Sales Funnel Analysis (SQL)**
+
 **Project Overview**
 
 This project analyzes customer behavior across an e-commerce sales funnel using SQL. The objective was to identify customer drop-off points, evaluate marketing channel effectiveness, measure conversion times, and assess revenue performance.
