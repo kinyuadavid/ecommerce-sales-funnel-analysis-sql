@@ -8,15 +8,20 @@ Data Analysis
 Business Intelligence
 Key Analyses
 Sales Funnel Analysis
+
 **Tracked customers through:**
 Product View
 Add to Cart
 Checkout
 Payment
 Purchase
+
 **Conversion Rate Analysis**
+
 Measured conversion rates between funnel stages to identify customer drop-off points.
+
 **Traffic Source Analysis**
+
 Compared performance across different marketing channels to determine the most effective acquisition source.
 **Time-to-Conversion Analysis**
 Calculated average time taken for users to move from product view to purchase.
