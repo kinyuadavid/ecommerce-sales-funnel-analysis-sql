@@ -31,8 +31,11 @@ Evaluated revenue generation, average order value, revenue per buyer, and revenu
 **Key Findings**
 
 -- Payment-to-purchase conversion rate exceeded 90%, indicating minimal checkout friction.
+
 -- Product page views generated significantly more traffic than cart additions, suggesting opportunities for UX optimization.
+
 -- Email marketing delivered stronger conversion performance than social media traffic.
+
 -- Average customer purchase journey was approximately 25 minutes.
 
 **Skills Demonstrated**
