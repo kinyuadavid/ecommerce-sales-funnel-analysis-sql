@@ -11,13 +11,9 @@ Sales Funnel Analysis
 
 **Tracked customers through:**
 Product View
-
 Add to Cart
-
 Checkout
-
 Payment
-
 Purchase
 
 **Conversion Rate Analysis**
