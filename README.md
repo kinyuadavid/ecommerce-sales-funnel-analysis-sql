@@ -3,12 +3,8 @@
 This project analyzes customer behavior across an e-commerce sales funnel using SQL. The objective was to identify customer drop-off points, evaluate marketing channel effectiveness, measure conversion times, and assess revenue performance.
 
 **Tools Used**
-SQL (Google BigQuery)
 
-Data Analysis
-Business Intelligence
-Key Analyses
-Sales Funnel Analysis
+SQL (Google BigQuery), Data Analysis, Business Intelligence, Key Analyses, Sales Funnel Analysis
 
 **Tracked customers through:**
 Product View
