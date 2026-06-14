@@ -4,6 +4,7 @@ This project analyzes customer behavior across an e-commerce sales funnel using 
 
 **Tools Used**
 SQL (Google BigQuery)
+
 Data Analysis
 Business Intelligence
 Key Analyses
