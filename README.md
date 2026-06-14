@@ -9,11 +9,8 @@ This project analyzes customer behavior across an e-commerce sales funnel using 
 SQL (Google BigQuery), Data Analysis, Business Intelligence, Key Analyses, Sales Funnel Analysis
 
 **Tracked customers through:**
-Product View
-Add to Cart
-Checkout
-Payment
-Purchase
+
+Product View, Add to Cart, Checkout, Payment, Purchase
 
 **Conversion Rate Analysis**
 
