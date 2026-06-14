@@ -10,7 +10,7 @@ SQL (Google BigQuery), Data Analysis, Business Intelligence, Key Analyses, Sales
 
 **Tracked customers through:**
 
-Product View, Add to Cart, Checkout, Payment, Purchase
+Product View, Add to Cart, Checkout, Payment and Purchase
 
 **Conversion Rate Analysis**
 
